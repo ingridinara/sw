@@ -23,5 +23,5 @@
 7- Install Front Awesome
 7.1- npm install --save @fortawesome/fontawesome-free
 
-You can get a preview from the branch develop below:
-[https://8w5gj.csb.app/]
+You can get a preview from the branch 'rawstructure' below:
+[https://vejot.csb.app/]
